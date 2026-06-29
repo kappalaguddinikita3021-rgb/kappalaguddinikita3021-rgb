@@ -128,11 +128,6 @@ public class NikhitaKappalaguddi extends FullStackDeveloper {
 
 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nikhita-k/Nikhita-k/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ## 📚 Currently learning
 
