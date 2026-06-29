@@ -25,7 +25,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_NEW_USERNAME&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS)
+![Profile Views](https://Nikhita.com/ghpvc/?username=YOUR_NEW_USERNAME&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-kappalaguddi-93b730259)
 [![Email](https://img.shields.io/badge/Email-kappalaguddinikita3021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kappalaguddinikita3021@gmail.com)
 
